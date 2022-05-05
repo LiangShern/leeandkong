@@ -1,2 +1,2 @@
 # leeandkong
-test-site
+This is a test site for Lee & Kong Advocates & Solicitors
